@@ -7,7 +7,7 @@ I’m a passionate software developer with expertise in:
 
 ### 🌟 Highlighted Projects
 - **Weather App:** Built with Python, Next.js, OpenWeatherAPI, and OpenAI API — provides real-time weather data and AI-powered insights.
-- **Hero/Villain Game:** Developed in Unity using C# — an immersive gameplay experience exploring classic hero and villain dynamics.
+- **Beat The Hero Game:** Developed in Unity using C# — an immersive gameplay experience exploring classic hero and villain dynamics.
 - **Travel Itinerary App:** Created with JavaScript, HTML, CSS, and CesiumJS — interactive maps and custom travel planning features.
 
 ### 🌌 About Me
