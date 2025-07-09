@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 Hi, I’m Kyle
 
-<!--
-**kyleGnre/kyleGnre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software developer with expertise in:
 
-Here are some ideas to get you started:
+- **Programming Languages:** Python, Java, C, C#, C++, JavaScript (React & Node.js), HTML, CSS (Tailwind), SQL
+- **Frameworks & Tools:** Next.js, Unity, CesiumJS, OpenAI API, OpenWeatherAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Highlighted Projects
+- **Weather App:** Built with Python, Next.js, OpenWeatherAPI, and OpenAI API — provides real-time weather data and AI-powered insights.
+- **Hero/Villain Game:** Developed in Unity using C# — an immersive gameplay experience exploring classic hero and villain dynamics.
+- **Travel Itinerary App:** Created with JavaScript, HTML, CSS, and CesiumJS — interactive maps and custom travel planning features.
+
+### 🌌 About Me
+Space and astronomy fascinate me, and I’m eager to blend my software skills with my passion for exploration and discovery. I’m always looking for opportunities to build projects that create real-world impact across various industries.
+
+- 🚀 Always exploring new tech and ideas
+- 🛰️ Interested in space, science, and making technology more accessible
+- 💡 Open to collaborations and innovative project ideas
+
+---
+
+- [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/kyle-genarie-2ba31b328/))
+- [Portfolio](in the works)
+- [GitHub]([https://github.com/kyleGnre])
+
+I'm open to any opportunities that fall under my experience and skills and would love to connect!
