@@ -19,8 +19,8 @@ Space and astronomy fascinate me, and I’m eager to blend my software skills wi
 
 ---
 
-- [LinkedIn]([https://www.linkedin.com/in/kyle-genarie-2ba31b328/])
-- [Portfolio](in the works)
-- [GitHub]([https://github.com/kyleGnre])
+[LinkedIn]([https://www.linkedin.com/in/kyle-genarie-2ba31b328/])
+[Portfolio](in the works)
+[GitHub]([https://github.com/kyleGnre])
 
 I'm open to any opportunities that fall under my experience and skills and would love to connect!
